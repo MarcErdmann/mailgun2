@@ -1,5 +1,5 @@
 {
-  "name": "mailgun.js",
+  "name": "mailgun2",
   "version": "2.0.1",
   "main": "index.js",
   "author": "Mailgun",
@@ -29,6 +29,7 @@
   "dependencies": {
     "btoa": "^1.1.2",
     "es6-promise": "^3.0.2",
+    "lodash": "^4.17.15",
     "lodash.defaults": "^3.1.2",
     "lodash.indexby": "^3.1.1",
     "lodash.last": "^3.0.0",
